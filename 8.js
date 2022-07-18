@@ -1,12 +1,12 @@
-// age = "hero"
-// console.log(typeof age )
+age = "hero"
+console.log(typeof age )
 
-// age = 7;
+age = 7;
 
-// console.log(typeof(age+""))
+console.log(typeof(age+""))
 
 
-// let pen = "blue"
-// pencil = "red"
-// console.log(pen + " " +pencil)
+let pen = "blue"
+pencil = "red"
+console.log(pen + " " +pencil)
 
