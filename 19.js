@@ -10,14 +10,15 @@
 //  console.log(items);
 // console.log(items);
 // console.log(itemsmore);
-// itemsmore.unshift("Pad")
+// itemsmore.shift("Pad")
 // console.log(itemsmore);
 // console.log(items);
 
 // itemsmore=[].concat("idcard");
-
-itemsmore = [...items]
+let itemsmost = ["erasr","box"];
+itemsmore = [...items, ...itemsmost];
+// 
+// console.log(items);
 console.log(itemsmore);
-console.log(items)
 
 
