@@ -18,8 +18,13 @@
 // a.unshift(6);
 //  console.log(a);
 
- let a = [0,1,2,3,4,5]
- let removednumber = a.shift();
- console.log(a);
- console.log("Removed Number is", removednumber)
+//  let a = [0,1,2,3,4,5]
+//  let removednumber = a.shift();
+//  console.log(a);
+//  console.log("Removed Number is", removednumber)
 
+let a = ["amer", "arsalan", "arshad"]
+let b = a.slice(0).concat(["azam"]);
+a.push("ayeen")
+console.log(a);
+console.log(b)
